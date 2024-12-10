@@ -1,0 +1,16 @@
+DATA DETAILS - GROUP 13
+
+The dataset we used for our project 'AI Based Music Composer using VAE' is 
+"GTZAN Dataset - Music Genre Classification"
+
+Which can be downloaded from the following link:
+https://www.kaggle.com/datasets/andradaolteanu/gtzan-dataset-music-genre-classification
+
+SOURCE: Kaggle
+The files were collected in 2000-2001 from a variety of sources including personal CDs, radio, microphone recordings, 
+in order to represent a variety of recording conditions (http://marsyas.info/downloads/datasets.html)
+
+This following folder 'genres original' was used for generating music from our model.
+genres original - A collection of 10 genres with 100 audio files each, all having a length of 30 seconds (the famous GTZAN dataset, the MNIST of sounds)
+
+-------------------------------------------------------------------------------------------------------------------------------------------------------------
